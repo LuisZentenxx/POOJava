@@ -7,7 +7,7 @@ import java.util.Scanner;
 import com.unab.Trabajadores.*;
 
 /**
- * @author 56958
+ * @author Luis Zenteno
  *
  */
 public class Main {
